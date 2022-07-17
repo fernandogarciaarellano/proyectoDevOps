@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mx.com.example.web.rest.HelloControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.542 sec

@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+microservicio-web,mx.com.example.web.rest,HelloController,16,7,0,0,3,2,2,2,2,2
+microservicio-web,mx.com.example.web,Application,26,15,2,0,4,4,2,4,1,4
+microservicio-web,mx.com.example.web,SwaggerConfig,28,0,0,0,12,0,3,0,3,0

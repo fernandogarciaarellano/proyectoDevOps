@@ -1,0 +1,10 @@
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\exceptions\ForbiddenException.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\to\ErrorTO.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\exceptions\UnauthorizedException.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\to\UserTO.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\exceptions\BusinessException.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\stream\KafkaProducerConfig.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\exceptions\ParametersException.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\exceptions\NotFoundException.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\stream\KafkaConsumerConfig.java
+C:\Users\bosker\Documents\cursodevops\Curso-Microservicios-master\microservicio-commons\src\main\java\mx\com\example\commons\aspects\RequestValidatorAspect.java
